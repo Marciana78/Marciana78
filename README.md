@@ -1,4 +1,9 @@
-## Hi there 👋
+# Marciana
+
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marciana78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marciana78&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 <!--
 **Marciana78/Marciana78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
